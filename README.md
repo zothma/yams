@@ -39,3 +39,12 @@ Il est nécessaire d'avoir un terminal et un compilateur C installé. Sous Linux
 gcc -o yams source.c
 ./yams
 ```
+
+### Générer la documentation
+
+La configuration de la documentation se trouve dans [le fichier doxygen.conf](doxygen.conf). Doxygen est configuré pour générer la documentation en HTML et au format RTF, et est optimisé pour la documentation de code C. Les résultats sont stockés dans un dossier `docs`. Sous Linux, après avoir installé Doxygen :
+
+```
+mkdir -p docs
+doxygen doxygen.conf
+```
