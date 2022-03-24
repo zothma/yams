@@ -8,7 +8,7 @@ Le but du jeu est de gagner le plus de points possibles en faisant des combinais
 
 ### Combinaisons
 
-Il existe deux types de **combinaisons** : les sommes de points et les combinaisons spéciales. Une somme de points consiste à additionner les dés ayant les mêmes points *(par exemple, la somme des dés valant 1)*. Les combinaisons sont des motifs particuliers, et ils sont au nombre de 7 :
+Il existe deux types de **combinaisons** : les sommes de points et les combinaisons spéciales. Une somme de points consiste à additionner les dés ayant les mêmes points *(par exemple, la somme des dés valant 1)*. Les combinaisons spéciales sont des motifs particuliers, et sont au nombre de 7 :
 
 | Combinaison | Condition | Points |
 | - | - | - |
@@ -53,7 +53,7 @@ doxygen doxygen.conf
 ### Feuille de score vide
 ![Feuille de score vide](captures/Feuille%20de%20Score.png)
 
-### Feuille de score vide
+### Feuille de score pleine
 ![Feuille de score plein](captures/Feuille%20de%20Score%20Remplie.png)
 
 ### Dés
