@@ -48,3 +48,19 @@ La configuration de la documentation se trouve dans [le fichier doxygen.conf](do
 mkdir -p docs
 doxygen doxygen.conf
 ```
+
+## Captures d'écran
+### Feuille de score vide
+![Feuille de score vide](captures/Feuille%20de%20Score.png)
+
+### Feuille de score vide
+![Feuille de score plein](captures/Feuille%20de%20Score%20Remplie.png)
+
+### Dés
+![Dés](captures/Dés.png)
+
+### Combinaisons
+![Choix des combinaisons](captures/Choix%20Combinaisons.png)
+
+### Résultat
+![Tableau des résultats](captures/Résultats.png)
